@@ -1,0 +1,31 @@
+<Alloy>
+	<View id="publicaciones">
+		<ListView id="listadoPublicaciones" defaultItemTemplate="template">
+			<Templates>
+				<ItemTemplate name="template">
+					<View class="listItemContainer">
+						<View class="userDataContainer">
+							<ImageView class="imgUsuario" bindId="picUsr"></ImageView>
+							<Label class="nomUsuario" bindId="nomUsr"></Label>
+						</View>>
+						<View class="publishDataContainer">
+							<Label class="titlePublicacion" bindId="titPub"></Label>
+							<ImageView class="imgPublicacion" bindId="picPub"></ImageView>
+							<Label class="descPublicacion" bindId="desPub"></Label>
+						</View>
+						<View class="publishMetadataContainer">
+							<Label class="numComentarios" bindId="numCom"></Label>
+							<Label class="linkComentarios" bindId="lnkCom" onClick="VerComentarios"></Label>
+						</View>
+						<View class="buttonsContainer">
+							<Button class="contactOwnerButton" binId="conOwn" onClick="Contactar">Contactar</Button>
+							<Button class="commentButton" bindId="comPub" onClick="Comentar">Comentar</Button>
+							<Button class="reportButton" bindId="repPub" onClick="Denunciar">Denunciar</Button>
+						</View>
+					</View>
+				</ItemTemplate>
+			</Templates>
+		</ListView>
+		<ListSection id="onlySection"></ListSection>
+	</View>
+</Alloy>

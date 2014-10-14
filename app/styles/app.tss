@@ -1,0 +1,17 @@
+"NavigationWindow":{
+	tintColor:"white",
+	color:"white"
+}
+
+"Window":{
+	barColor:"#4CD964",
+	backgroundColor:"white"
+}
+
+"Label":{
+	font:{
+		fontSize:20,
+		fontFamily:"HelveticaNeue"
+	},
+	color:"#8E8E93"
+}

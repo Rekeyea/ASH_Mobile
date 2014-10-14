@@ -1,0 +1,9 @@
+"#index":{
+	title:"Inicio"	
+}
+
+
+"#fbButton":{
+	left:Alloy.Globals.Margen,
+	right:Alloy.Globals.Margen
+}

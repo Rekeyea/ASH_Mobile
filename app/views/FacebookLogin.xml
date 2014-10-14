@@ -1,0 +1,5 @@
+<Alloy>
+	<View id="fbLogin">
+		<LoginButton id="fbButton" ns="Alloy.Globals.Facebook"/>
+	</View>
+</Alloy>

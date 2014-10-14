@@ -1,0 +1,132 @@
+/*"#publicaciones":{
+	backgroundColor:"white",
+	height:Ti.UI.SIZE,
+	borderColor:"red",
+	borderWidth:2
+}
+
+"#listadoPublicaciones":{
+	top:0,
+	height:200
+}
+
+"ListItem":{
+	height:Ti.UI.SIZE
+}
+
+".listItemContainer":{
+	layout:"vertical",
+	height:Ti.UI.SIZE,
+	borderColor:"red",
+	borderWidth:2
+}
+
+".userDataContainer":{
+	layout:"horizontal",
+	height:Ti.UI.SIZE,
+	left:0,
+	right:0,
+	borderColor:"red",
+	borderWidth:2
+}
+
+".imgUsuario":{
+	height:Alloy.Globals.TamanoControlGrande,
+	right:Alloy.Globals.TamanoControlGrande,
+	left:Alloy.Globals.Margen
+}
+
+".nomUsuario":{
+	left:5,
+	font:{
+		fontSize:16,
+		fontFamily:Alloy.Globals.Letra
+	},
+	height:Ti.UI.SIZE,
+	color:"black"
+}
+
+".publishDataContainer":{
+	layout:"vertical",
+	height:Ti.UI.SIZE,
+	borderColor:"red",
+	borderWidth:2
+}
+
+".titlePublicacion":{
+	left:Alloy.Globals.Margen,
+	font:{
+		fontSize:18,
+		fontFamily:Alloy.Globals.Letra
+	},
+	height:Ti.UI.SIZE	
+}
+
+".imgPublicacion":{
+	width:"100%",
+	top:2
+}
+
+".descPublicacion":{
+	left:Alloy.Globals.Margen,
+	font:{
+		fontSize:14,
+		fontFamily:Alloy.Globals.Letra
+	},
+	height:Ti.UI.SIZE
+}
+
+".publishMetadataContainer":{
+	layout: "horizontal",
+	height:Alloy.Globals.TamanoControlGrande,
+	left:0,
+	right:0,
+	borderColor:"red",
+	borderWidth:2
+}
+
+".numComentarios":{
+	left:Alloy.Globals.Margen,
+	font:{
+		fontSize:14,
+		fontFamily:Alloy.Globals.Letra
+	},
+	height:Ti.UI.SIZE
+}
+
+".linkComentarios":{
+	left:Alloy.Globals.Margen,
+	font:{
+		fontSize:14,
+		fontFamily:Alloy.Globals.Letra
+	},
+	height:Ti.UI.SIZE,
+	color:"blue"
+}
+
+".buttonsContainer":{
+	layout: "horizontal",
+	height:Alloy.Globals.TamanoControlGrande,
+	left:0,
+	right:0,
+	borderColor:"red",
+	borderWidth:2
+}
+
+".contactOwnerButton":{
+	left:Alloy.Globals.Margen,
+	height:Alloy.Globals.TamanoControl
+}
+
+".commentButton":{
+	left:Alloy.Globals.Margen,
+	height:Alloy.Globals.TamanoControl
+}
+
+".reportButton":{
+	left:Alloy.Globals.Margen,
+	height:Alloy.Globals.TamanoControl	
+}
+
+
+*/
